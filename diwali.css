@@ -1,0 +1,32 @@
+.bg-image{
+    background-image: url("diwali-bg.png");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+    padding: 20px;
+}
+.text{
+    color: white;
+    /*font-family: "caveat";*/
+    font-family: cursive;
+    font-size: 30px;
+}
+.bottom-sec{
+    background-color: #e6f6ff;
+    padding: 20px;
+    text-align: center;
+
+}
+.bottom{
+    background-color: white;
+    text-align: center;
+    height: 160px;
+    width:140px;
+    padding:10px ;
+    margin: 10px;
+    border-radius: 10px;
+}
+.card-head{
+   font-size: 20px;
+   font-style: bold;
+}
